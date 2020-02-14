@@ -16,9 +16,8 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-### How to create the project Step-By-Step 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), following the steps in 
-https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+## How to create the project Step-By-Step 
+Based in [VsCode React Tutorial](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) and [ReDoc Documentation](https://github.com/Redocly/redoc)
 
 In a terminal or command prompt type:
 1. Install Create React App
@@ -37,7 +36,7 @@ cd redoc-app
 ```bash
 code .
 ```
-<b>5. Installing ReDoc component</b>
+5. Installing ReDoc component
  ```bash 
  yarn add redoc
  ``` 
